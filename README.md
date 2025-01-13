@@ -1,5 +1,5 @@
 
-```markdown
+```
 # Virtual Plant Care System
 
 A simple Java-based application that simulates a virtual garden, allowing users to care for different types of plants. This project demonstrates core Object-Oriented Programming (OOP) concepts, including inheritance, encapsulation, and polymorphism.
@@ -27,7 +27,7 @@ VirtualPlantCare/
 │
 ├── README.md
 └── LICENSE (if applicable)
-
+```
 
 ## How to Run
 ```
