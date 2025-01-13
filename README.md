@@ -53,7 +53,7 @@ VirtualPlantCare/
 - **Encapsulation:** Plant attributes (name, growth stage, water level, sunlight level) are encapsulated within the `Plant` class and accessed through getter and setter methods.
 - **Inheritance:** `Cactus`, `Fern`, and `Rose` classes inherit from the `Plant` base class.
 - **Polymorphism:** The `grow` method is overridden in each plant type to reflect different growth behaviors.
-- - **Abstraction:** The `Plant` class provides a generalized template for different plant types, hiding complex implementation details and allowing for more specific plant behavior to be defined in subclasses.
+- **Abstraction:** The `Plant` class provides a generalized template for different plant types, hiding complex implementation details and allowing for more specific plant behavior to be defined in subclasses.
 
 
 ## Example Usage
