@@ -27,7 +27,7 @@ VirtualPlantCare/
 │
 ├── README.md
 └── LICENSE (if applicable)
-```
+
 
 ## How to Run
 ```
