@@ -13,7 +13,7 @@ A simple Java-based application that simulates a virtual garden, allowing users 
 
 ## Project Structure
 
-```
+
 VirtualPlantCare/
 │
 ├── src/
@@ -27,7 +27,7 @@ VirtualPlantCare/
 │
 ├── README.md
 └── LICENSE (if applicable)
-```
+
 
 ## How to Run
 
