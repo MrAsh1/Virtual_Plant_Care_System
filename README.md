@@ -14,7 +14,7 @@ A simple Java-based application that simulates a virtual garden, allowing users 
 
 ## Project Structure
 
-
+```
 VirtualPlantCare/
 │
 ├── src/
@@ -28,7 +28,7 @@ VirtualPlantCare/
 │
 ├── README.md
 └── LICENSE (if applicable)
-
+```
 
 ## How to Run
 
@@ -76,9 +76,3 @@ Choose an Option:
 - Add more plant types with unique care requirements.
 - Introduce more complex plant care mechanics, such as seasonal changes or pest control.
 
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request for any feature you would like to add or improve.
-```
-
-Make sure to replace `yourusername` with your actual GitHub username. Let me know if you need any further customization! If you have any other requests or need assistance with something else, feel free to ask.
