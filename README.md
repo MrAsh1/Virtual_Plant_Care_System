@@ -1,5 +1,5 @@
-**Virtual Plant Care System
-**A simple Java-based application that simulates a virtual garden, allowing users to care for different types of plants. This project demonstrates core Object-Oriented Programming (OOP) concepts, including inheritance, encapsulation, and polymorphism.
+Virtual Plant Care System
+A simple Java-based application that simulates a virtual garden, allowing users to care for different types of plants. This project demonstrates core Object-Oriented Programming (OOP) concepts, including inheritance, encapsulation, and polymorphism.
 
 Features
 -Add Different Types of Plants: Users can add Cactus, Fern, or Rose to their virtual garden.
