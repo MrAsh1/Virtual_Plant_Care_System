@@ -1,6 +1,3 @@
-Here's your properly formatted README.md file for the Virtual Plant Care System project:
-
-
 # Virtual Plant Care System
 
 A simple Java-based application that simulates a virtual garden, allowing users to care for different types of plants. This project demonstrates core Object-Oriented Programming (OOP) concepts, including inheritance, encapsulation, and polymorphism.
@@ -56,6 +53,8 @@ VirtualPlantCare/
 - **Encapsulation:** Plant attributes (name, growth stage, water level, sunlight level) are encapsulated within the `Plant` class and accessed through getter and setter methods.
 - **Inheritance:** `Cactus`, `Fern`, and `Rose` classes inherit from the `Plant` base class.
 - **Polymorphism:** The `grow` method is overridden in each plant type to reflect different growth behaviors.
+- - **Abstraction:** The `Plant` class provides a generalized template for different plant types, hiding complex implementation details and allowing for more specific plant behavior to be defined in subclasses.
+
 
 ## Example Usage
 
